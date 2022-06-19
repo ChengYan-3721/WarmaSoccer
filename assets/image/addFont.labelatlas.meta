@@ -1,0 +1,190 @@
+{
+  "ver": "1.0.0",
+  "importer": "label-atlas",
+  "imported": true,
+  "uuid": "06b0db65-c53a-4e78-8014-c4c8efb77162",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "itemWidth": 35,
+    "itemHeight": 45,
+    "fontSize": 39.6,
+    "startChar": "+",
+    "spriteFrameUuid": "75238287-6b9b-4a49-aa9e-572f90bbc373@3f502",
+    "_fntConfig": {
+      "commonHeight": 45,
+      "fontSize": 39,
+      "atlasName": "",
+      "fontDefDictionary": {
+        "43": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 35,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 35
+        },
+        "44": {
+          "rect": {
+            "x": 35,
+            "y": 0,
+            "width": 35,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 35
+        },
+        "45": {
+          "rect": {
+            "x": 70,
+            "y": 0,
+            "width": 35,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 35
+        },
+        "46": {
+          "rect": {
+            "x": 105,
+            "y": 0,
+            "width": 35,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 35
+        },
+        "47": {
+          "rect": {
+            "x": 140,
+            "y": 0,
+            "width": 35,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 35
+        },
+        "48": {
+          "rect": {
+            "x": 175,
+            "y": 0,
+            "width": 35,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 35
+        },
+        "49": {
+          "rect": {
+            "x": 210,
+            "y": 0,
+            "width": 35,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 35
+        },
+        "50": {
+          "rect": {
+            "x": 245,
+            "y": 0,
+            "width": 35,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 35
+        },
+        "51": {
+          "rect": {
+            "x": 280,
+            "y": 0,
+            "width": 35,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 35
+        },
+        "52": {
+          "rect": {
+            "x": 315,
+            "y": 0,
+            "width": 35,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 35
+        },
+        "53": {
+          "rect": {
+            "x": 350,
+            "y": 0,
+            "width": 35,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 35
+        },
+        "54": {
+          "rect": {
+            "x": 385,
+            "y": 0,
+            "width": 35,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 35
+        },
+        "55": {
+          "rect": {
+            "x": 420,
+            "y": 0,
+            "width": 35,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 35
+        },
+        "56": {
+          "rect": {
+            "x": 455,
+            "y": 0,
+            "width": 35,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 35
+        },
+        "57": {
+          "rect": {
+            "x": 490,
+            "y": 0,
+            "width": 35,
+            "height": 45
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 35
+        }
+      },
+      "kerningDict": {}
+    }
+  }
+}
