@@ -38,7 +38,7 @@ export class BiologyManager extends Component {
     warmaAppear(){
         if(warmaShow) return;
         main.instance.comeIn();
-        let x: number = Math.floor(Math.random() * 880) - 440;
+        let x: number = Math.floor(Math.random() * 2) ? -258 : 288;
         const warma = instantiate(this.warmaPre);
         warma.setParent(this.node.parent);
         warma.setPosition(x, 450);
